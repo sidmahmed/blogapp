@@ -1,0 +1,25 @@
+body {
+	background-color: #edf2f4;
+}
+
+i.icon {
+	font-size: 2em;
+}
+
+.container.main {
+	margin-top: 7em;
+}
+
+.blog-buttons {
+	margin-top: 3em;
+}
+
+#delete {
+	display: inline;
+}
+
+.ui.button {
+	background-color: #2b2d42;
+	color: #edf2f4;
+}
+
